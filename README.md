@@ -21,3 +21,5 @@ Clone this repository and install dependencies:
 git clone https://github.com/PANDAss11/PDFEagle.git
 cd PDFEagle
 pip install -r requirements.txt
+python pdfeagle.py
+
